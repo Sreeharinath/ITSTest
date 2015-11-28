@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div id="main">
 
-				<!-- One test updated 28 oct-->
+				<!-- One test updated 28 oct from cli-->
 					<section id="one">
 						<header class="major">
 						<ul class="actions">
